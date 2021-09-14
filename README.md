@@ -1,12 +1,12 @@
-#BlockJSchain
+# BlockJSchain
 An advanced library to implement, deploy and use blockchains in NodeJS.
 
-###Installation
+### Installation
 ####Using npm
 
 `npm i blockjschain`
 
-###Supported Methods and Usage
+### Supported Methods and Usage
 
 Import the class by
 
