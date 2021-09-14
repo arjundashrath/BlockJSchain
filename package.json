@@ -4,7 +4,7 @@
     "objects-to-csv-file": "^1.0.1"
   },
   "name": "blockjschain",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An advanced library to implement, deploy and use blockchains in NodeJS.",
   "main": "src/BlockJSchain.js",
   "scripts": {
