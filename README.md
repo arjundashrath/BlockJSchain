@@ -29,4 +29,6 @@ eg. `bjsc.mine_block('Data')`
 |-------|------|-----|
 |mine_block|`mine_block(optional parameter)`|Mine blocks by passing optional data as parameter|
 |check_chain_integrity|`check_chain_integrity()`|Returns a boolean value: True if the chain is valid, False if the chain has been tampered with|
-|get_chain|`get_chain`|Returns the entire chain, the chain returned can be accessed like an array using indexes|
+|get_chain|`get_chain()`|Returns the entire chain, the chain returned can be accessed like an array using indexes|
+|chain_csv|`chain_csv(filename.csv)`|Exports the data of the blockchain to a csv file|
+|chain_length|`chain_length()`|Returns count of blocks in the blockchain|

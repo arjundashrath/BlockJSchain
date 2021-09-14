@@ -1,5 +1,7 @@
 const hash = require('hash.js')
 
+const filio = require('./ChainDataHandle.js')
+
 module.exports = class Blockchain
 {
 	
@@ -147,6 +149,16 @@ module.exports = class Blockchain
 		
 		return this.chain
 		
+	}
+	
+	chain_csv(fileName)
+	{
+		filio.chaincsv(fileName, this.chain)
+	}
+	
+	chain_length()
+	{
+		return this.chain.length;
 	}
 	
 	
