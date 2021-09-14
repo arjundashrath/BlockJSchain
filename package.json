@@ -2,10 +2,10 @@
   "dependencies": {
     "hash.js": "^1.1.7"
   },
-  "name": "blockchainjs",
+  "name": "blockjschain",
   "version": "1.0.0",
   "description": "An advanced library to implement, deploy and use blockchains in NodeJS.",
-  "main": "src/BlockchainJS.js",
+  "main": "src/BlockJSchain.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
