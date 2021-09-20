@@ -32,3 +32,11 @@ eg. `bjsc.mine_block('Data')`
 |get_chain|`get_chain()`|Returns the entire chain, the chain returned can be accessed like an array using indexes|
 |chain_csv|`chain_csv(filename.csv)`|Exports the data of the blockchain to a csv file|
 |chain_length|`chain_length()`|Returns count of blocks in the blockchain|
+
+---
+
+_Contributions are always welcomed_
+[Github](https://github.com/arjundashrath/BlockJSchain)
+
+_Reach out to me_
+[Gmail](arjundashrath@gmail.com)

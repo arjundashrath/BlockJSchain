@@ -17,5 +17,14 @@
     "Structure"
   ],
   "author": "Arjun Dashrath",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjundashrath/BlockJSchain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arjundashrath/BlockJSchain/issues"
+  },
+  "homepage": "https://github.com/arjundashrath/BlockJSchain#readme"
 }
