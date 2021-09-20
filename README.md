@@ -39,4 +39,4 @@ _Contributions are always welcomed_
 [Github](https://github.com/arjundashrath/BlockJSchain)
 
 _Reach out to me_
-[Gmail](arjundashrath@gmail.com)
+_arjundashrath@gmail.com_
